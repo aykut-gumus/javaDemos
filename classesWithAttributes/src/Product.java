@@ -6,6 +6,11 @@ public class Product {
         this.name = name;
         this.price = price;
         this.description = description;
+        this.stockAmount = stockAmount;
+    }
+
+    public Product() {
+
     }
 
     //attribute & field
@@ -66,7 +71,7 @@ public class Product {
     }
 
     public String getKod() {
-        return this.name.substring(0, 1);
+        return this.name.substring(0, 1) + id;
     }
 
     public void setKod(String kod) {

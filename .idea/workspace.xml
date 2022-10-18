@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d11a5891-59f7-410f-80f5-9efdefd26024" name="Changes" comment="update commit">
-      <change beforePath="$PROJECT_DIR$/.idea/javaDemos.iml" beforeDir="false" />
+    <list default="true" id="a707934c-f467-4654-b4dc-6f36fda1c3e1" name="Changes" comment="update commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classesWithAttributes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classesWithAttributes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classesWithAttributes/out/production/classesWithAttributes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/classesWithAttributes/out/production/classesWithAttributes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classesWithAttributes/out/production/classesWithAttributes/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/classesWithAttributes/out/production/classesWithAttributes/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classesWithAttributes/out/production/classesWithAttributes/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/classesWithAttributes/out/production/classesWithAttributes/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classesWithAttributes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/classesWithAttributes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classesWithAttributes/src/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/classesWithAttributes/src/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/src/EmployeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/EmployeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceDemo/src/BaseKrediManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceDemo/src/BaseKrediManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritanceDemo/src/KrediUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/inheritanceDemo/src/KrediUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodOverloading/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/methodOverloading/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodOverloading/out/production/methodOverloading/DortIslem.class" beforeDir="false" afterPath="$PROJECT_DIR$/methodOverloading/out/production/methodOverloading/DortIslem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methodOverloading/out/production/methodOverloading/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/methodOverloading/out/production/methodOverloading/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,36 +28,60 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FIR8WslfJcH0KEvumAHQZCrtAs" />
+  <component name="ProjectId" id="2FJQ3xO2wucWHhM3i2aipVKBZbA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gumus/Desktop/javaDemos"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/javaDemos&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="javademos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="javademos" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d11a5891-59f7-410f-80f5-9efdefd26024" name="Changes" comment="" />
-      <created>1664177452558</created>
+      <changelist id="a707934c-f467-4654-b4dc-6f36fda1c3e1" name="Changes" comment="" />
+      <created>1664207511266</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664177452558</updated>
-      <workItem from="1665414168949" duration="904000" />
+      <updated>1664207511266</updated>
+      <workItem from="1664207512466" duration="1076000" />
+      <workItem from="1664992759508" duration="7000" />
+      <workItem from="1665415083295" duration="283000" />
+      <workItem from="1665418037174" duration="1477000" />
+      <workItem from="1665510181155" duration="361000" />
+      <workItem from="1665512500209" duration="495000" />
+      <workItem from="1665674267209" duration="38000" />
+      <workItem from="1665674378771" duration="719000" />
+      <workItem from="1665819623883" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="update commit">
-      <created>1665414659270</created>
+      <created>1665415310955</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1665414659270</updated>
+      <updated>1665415310955</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -58,11 +95,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
